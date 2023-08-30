@@ -78,7 +78,7 @@ pipeline {
         steps {
             script {
                echo '<--------------- Docker Publish Started --------------->'  
-                docker.withRegistry(registry, 'artfiactory-cred'){
+                docker.withRegistry(registry, 'artifactory-cred'){
                     app.push()
                 }    
                echo '<--------------- Docker Publish Ended --------------->'  
