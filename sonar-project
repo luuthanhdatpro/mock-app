@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.organization=thanhlc3
+sonar.projectKey=thanhlc3-key_mockprject
+sonar.projecName=mockprject
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.java.binaries=target.classes
+sonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml
