@@ -1,0 +1,9 @@
+{
+	"name": "ThanhLuuDataFactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fccad91-81bb-4246-ad14-3ad1d3cf4404",
+		"tenantId": "8cc69c8a-c31d-49af-a191-7cab890dfb0b"
+	}
+}
